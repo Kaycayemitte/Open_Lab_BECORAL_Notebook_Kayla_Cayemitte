@@ -1,6 +1,6 @@
 *Open Science*
 
-This [open lab notebook](https://becoral.github.io/Open_Lab_Notebook_BECORAL/](https://kaycayemitte.github.io/Open_Lab_BECORAL_Notebook_Kayla_Cayemitte/) contains analyses and products related to the work carried out by Kayla Cayemitte as a Ph.D. Student in [BECORAL](https://pradalabrutgers.weebly.com/) at DMCS at Rutgers University.
+This [open lab notebook](https://kaycayemitte.github.io/Open_Lab_BECORAL_Notebook_Kayla_Cayemitte/) contains analyses and products related to the work carried out by Kayla Cayemitte as a Ph.D. Student in [BECORAL](https://pradalabrutgers.weebly.com/) at DMCS at Rutgers University.
 This notebook is platformed on GitHub and it is directly linked to GitHub repositories that contain further details presented in notebook posts. 
 
 <p align="center">
