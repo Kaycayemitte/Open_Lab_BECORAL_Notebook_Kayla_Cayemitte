@@ -4,7 +4,7 @@ This [open lab notebook](https://kaycayemitte.github.io/Open_Lab_BECORAL_Noteboo
 This notebook is platformed on GitHub and it is directly linked to GitHub repositories that contain further details presented in notebook posts. 
 
 <p align="center">
-  <img src="https://github.com/Kaycayemitte/Open_Lab_BECORAL_Notebook_Kayla_Cayemitte/blob/a7f66e4434fcb28defdeda480c2ef43d6ba05101/images/BECORAL%20LOGO.jpg)" />
+  <img src="https://github.com/Kaycayemitte/Open_Lab_BECORAL_Notebook_Kayla_Cayemitte/blob/master/images/BECORAL%20LOGO.jpg" />
 </p>
 
 Photo Credit: [Francesco Sesso](https://www.francescosesso.it/)
