@@ -7,6 +7,6 @@ This notebook is platformed on GitHub and it is directly linked to GitHub reposi
   <img src="https://github.com/Kaycayemitte/Open_Lab_BECORAL_Notebook_Kayla_Cayemitte/blob/master/images/BECORAL%20LOGO.jpg" />
 </p>
 
-Photo Credit: [Francesco Sesso](https://www.francescosesso.it/)
+Logo Credit: [Fiorella Prada](https://www.francescosesso.it/](https://scholar.google.com/citations?user=rFn2eJYAAAAJ&hl=it)](https://scholar.google.com/citations?user=rFn2eJYAAAAJ&hl=it)
 
 - Credits: The realization of this lab notebook was inspired by the work of [hputnam](https://github.com/hputnam/Putnam_Lab_Notebook). This notebook is built with Jekyll Now, forked from [Barry Clark](https://github.com/barryclark/jekyll-now). 
